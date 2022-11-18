@@ -57,7 +57,7 @@ The steps for this Challenge are divided into the following sections:
 
 
 
-https://user-images.githubusercontent.com/80833988/129816362-144cfbb1-163a-4999-a9de-173854a7c643.mov
+https://github.com/ShengGaoSG/ERC-20_Fungible_Token/blob/main/Screenshots/Screen%20Recording%202022-11-17%20at%203.20.52%20PM.mov
 
 
 <img width="352" alt="Screen Shot 2022-11-17 at 3 16 40 PM" src="https://user-images.githubusercontent.com/80833988/129816183-ccec70fb-a15b-4e74-87b8-f9ef9b842062.png">
@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/80833988/129816362-144cfbb1-163a-4999-
 
 
 
-https://user-images.githubusercontent.com/80833988/129816318-1d67a9b5-6ccf-4d4f-bd06-debb5706541f.mov
+https://github.com/ShengGaoSG/ERC-20_Fungible_Token/blob/main/Screenshots/Screen%20Recording%202022-11-17%20at%203.44.02%20PM.mov
 
 <img width="307" alt="Screen Shot 2022-11-17 at 3 21 26 PM" src="https://user-images.githubusercontent.com/80833988/129816265-10adbd01-c31b-4f71-b3d3-68d20236a155.png">
 
